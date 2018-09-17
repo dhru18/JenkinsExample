@@ -8,5 +8,7 @@ public class JenkinsExamplesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsExamplesApplication.class, args);
+
+System.out.prinln("Test");
 	}
 }
